@@ -5,8 +5,14 @@
 
 This has a sample of how to write different kinds of content in markdown formatting.
 
+If viewing in github, to see the source code, make sure you are looking at the Readme file and not the rendered copy at the root of the repository.
+
+https://github.com/ChemeketaCS/markdown-sample/blob/main/Readme.md
+
+Then switch from `Preview` view to `Code` view.
+
 > [!TIP]
-> In VS Code, you can use the command **Markdown: Open Preview to the Side** to see the rendered markdown as you write it.*
+> In VS Code, you can use the command **Markdown: Open Preview to the Side** to see the rendered markdown as you write it.
 
 > [!IMPORTANT]
 > Some content, like this tip and important note will not appear in the markdown preview. They will only render properly on Github. So if you want to see how they will look, you can push your changes to Github and view the file there.
