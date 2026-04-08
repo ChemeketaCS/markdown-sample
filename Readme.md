@@ -1,9 +1,10 @@
 # Sample Writeup Formatting
 
-
 ## Section 1: Introduction
 
 This has a sample of how to write different kinds of content in markdown formatting.
+
+You can find a Youtube video introduction to how to work with markdown in VSCode here: [VSCode Markdown Editing](https://youtu.be/fq3_YX7m7dU).
 
 If viewing in github, to see the source code, make sure you are looking at the Readme file and not the rendered copy at the root of the repository.
 
