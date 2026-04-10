@@ -116,3 +116,26 @@ If you want to include an image, you can use the following syntax:
 For example:
 ![Sample graph of data fitting logn](images/sample-graph.png)
 
+## Section 7: Mermaid
+
+Mermaid is a tool that allows you to create diagrams and flowcharts using markdown-like syntax. You can use it to create flowcharts, sequence diagrams, class diagrams, and more.
+
+To see previews of the diagrams in VSCode's preview, you will need to install the **Markdown Preview Mermaid Support** extension. You can find it in the VSCode marketplace.
+
+```mermaid
+classDiagram
+    class Circle{
+        -m_radius : double
+        -m_center : Point
+        +getRadius() double
+    }
+
+    class Point{
+        -m_x : double
+        -m_y : double
+        +getX() double
+        +getY() double
+    }
+
+    Circle *-- Point
+```
